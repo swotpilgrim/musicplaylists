@@ -1,0 +1,79 @@
+{
+    "id": "category_5",
+                "title": "Powerful Playlists",
+  "description": "Curated playlists that embody joy, celebration, and positive energy through systematic curation and thematic coherence.",
+  "categories": {
+    "continental_rebellion": {
+      "title": "Continental Rebellion",
+      "description": "Sophisticated upbeat playlists featuring French New Wave aesthetics, continental cafe culture, and chic youthful rebellion through international sounds.",
+      "items": {
+        "playlist_004": {
+          "title": "Bande à Part: Continental Cafe Rebellion and Spontaneous Joy",
+          "description": "20 tracks of chic continental sophistication - from Left Bank cafe cool to spontaneous dance moments, capturing the playful rebellion of French New Wave youth culture.",
+          "metadata": "Generated from: Bande à part cafe dance scene, youthful fun, playful cheeky, chic, fashionable, international, continental, black coffee and cigarettes | Score: 98/100 | Theme: Cafe rebellion: Chic continental youth breaking into spontaneous sophisticated joy",
+          "content": "<h3>Theme: Cafe rebellion: Chic continental youth breaking into spontaneous sophisticated joy</h3>\n\n<p><strong>Mood:</strong> UPBEAT | <strong>Generated From:</strong> Bande à part cafe dance scene, youthful fun, playful cheeky, chic, fashionable, international, continental, black coffee and cigarettes | <strong>Quality Score:</strong> 98/100</p>\n\n<h4>Track Listing:</h4>\n\n<ol>\n<li><strong>Édith Piaf - Padam Padam</strong> | Instant French sophistication with irresistible groove, sets continental cafe atmosphere immediately</li>\n<li><strong>Eartha Kitt - C'est Si Bon</strong> | Building intellectual sophistication with international flair and faster tempo energy</li>\n<li><strong>Michel Legrand - Les Parapluies de Cherbourg</strong> | Singable French cinema connection, peak energy of opening sophistication phase</li>\n<li><strong>Serge Gainsbourg - Brigitte Bardot</strong> | Undeniable French groove with sophisticated body-moving rhythms and chic physical joy</li>\n<li><strong>Édith Piaf - La Vie en Rose</strong> | Sustained continental joy with steady sophisticated energy, sets up international exploration</li>\n<li><strong>Rosemary Clooney - Mambo Italiano</strong> | Unexpected continental joy source, shows sophistication can come from anywhere</li>\n<li><strong>Tony Renis - Quando Quando Quando</strong> | European cultural bridge with Italian sophistication and universal continental happiness</li>\n<li><strong>Peggy Lee - Fever</strong> | Sophisticated nostalgia joy with retro continental elements and international appeal</li>\n<li><strong>Dean Martin - Sway (Quien Sera)</strong> | Peak continental celebration with highest communal energy and international sophistication</li>\n<li><strong>Bobby Darin - Beyond the Sea</strong> | Transition to spontaneous energy, maintaining continental joy while adding emotional depth</li>\n<li><strong>Domenico Modugno - Ciao Ciao Bambina</strong> | Relentless continental positivity with infectious European energy and sophisticated fun</li>\n<li><strong>Dean Martin - Volare (Nel Blu Dipinto di Blu)</strong> | Liberation through continental joy, breaking free through sophisticated happiness</li>\n<li><strong>Ella Fitzgerald - Lullaby of Birdland</strong> | Joy enhanced by sophisticated jazz connection, heart-opening continental happiness</li>\n<li><strong>Dean Martin - That's Amore</strong> | Triumphant continental happiness with sophisticated celebration of earned chic joy</li>\n<li><strong>Ray Bryant Combo - The Madison Time</strong> | Peak spontaneous dance energy, transcendent cafe rebellion moment building to ultimate continental explosion</li>\n<li><strong>Ella Fitzgerald - Misty</strong> | Gentle sophisticated comedown with satisfied continental happiness and sustained chic energy</li>\n<li><strong>Nat King Cole - Autumn Leaves</strong> | Grateful continental joy with appreciation for sophisticated experience and thankful energy</li>\n<li><strong>Frank Sinatra - Fly Me to the Moon</strong> | Future sophisticated optimism with continental joy looking forward and chic anticipation</li>\n<li><strong>Frank Sinatra - I've Got You Under My Skin</strong> | Generous sophisticated energy wanting others to feel this continental cool</li>\n<li><strong>Charles Trenet - La Mer</strong> | Perfect French conclusion leaving listener genuinely sophisticated with lasting continental mood</li>\n</ol>\n\n<h4>Playlist Journey:</h4>\n\n<p>This playlist recreates the spontaneous joy of Godard's Bande à part cafe dance scene, taking you from sophisticated Left Bank cool through continental discovery to peak moments of chic rebellion. It captures the essence of French New Wave youth culture - intellectually sophisticated yet playfully rebellious.</p>\n\n<h4>Curation Notes:</h4>\n\n<p>Discovery-focused curation featuring authentic 50s-60s continental gems that most listeners won't know but will immediately love. The blend of French chanson, Italian sophistication, and American continental interpretations creates a truly international soundtrack for chic rebellion. Every track serves the cafe culture aesthetic while building toward that perfect spontaneous dance moment that defines French New Wave cool.</p>"
+                },
+                "item_2": {
+                    "title": "ITEM 29",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                },
+                "item_3": {
+                    "title": "ITEM 30",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                }
+            }
+        },
+        "category_2": {
+            "title": "CATEGORY 2",
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "items": {
+                "item_4": {
+                    "title": "ITEM 31",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                },
+                "item_5": {
+                    "title": "ITEM 32",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                },
+                "item_6": {
+                    "title": "ITEM 33",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                }
+            }
+        },
+        "category_3": {
+            "title": "CATEGORY 3",
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "items": {
+                "item_7": {
+                    "title": "ITEM 34",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                },
+                "item_8": {
+                    "title": "ITEM 35",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                },
+                "item_9": {
+                    "title": "ITEM 36",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                }
+            }
+        }
+    }
+}
