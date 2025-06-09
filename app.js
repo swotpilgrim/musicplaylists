@@ -5,7 +5,7 @@ class ContentBrowser {
         this.selectedCategory = null;
         this.selectedItem = null;
         // Base collections - these will be extended by any matching files
-        this.baseFiles = ['collection_1.json', 'collection_2.json', 'collection_3.json', 'collection_4.json'];
+        this.baseFiles = ['collection_1.json', 'collection_2.json', 'collection_3.json', 'collection_4.json', 'collection_5.json'];
     }
 
     async init() {
