@@ -1,0 +1,79 @@
+{
+    "id": "collection_2",
+    "title": "Romantic Playlists",
+  "description": "Curated playlists that embody love, intimacy, and connection through systematic curation and thematic coherence.",
+  "categories": {
+    "tokyo_fusion": {
+      "title": "Tokyo Romance Fusion",
+      "description": "Romance playlists featuring East-West cultural fusion, 80s aesthetics, and youthful love adventures in urban settings.",
+      "items": {
+        "playlist_002": {
+          "title": "Sakura Neon: Tokyo Romance Through Cherry Blossoms to City Lights",
+          "description": "20 tracks of youthful East-West romantic fusion - from morning shrine tenderness to neon night celebration, capturing young love bridging cultures in 80s Tokyo.",
+          "metadata": "Generated from: cherry blossom shrine, spring morning, love note, holding hands, neon Tokyo skyline, tiny dive bar, 80s sounds | Score: 95/100 | Theme: Tokyo romance: Young love bridging cherry blossom tradition and 80s neon nights",
+          "content": "<h3>Theme: Tokyo romance: Young love bridging cherry blossom tradition and 80s neon nights</h3>\n\n<p><strong>Mood:</strong> ROMANTIC | <strong>Generated From:</strong> Cherry blossom shrine, spring morning, love note, holding hands, date at night, neon Tokyo skyline, tiny dim dive bar, fun and free, youthful, 80s sounds | <strong>Quality Score:</strong> 95/100</p>\n\n<h4>Track Listing:</h4>\n\n<ol>\n<li><strong>Roxy Music - More Than This</strong> | Soft dreamy 80s opener creating immediate spring morning tenderness at the shrine</li>\n<li><strong>Kyu Sakamoto - Sukiyaki (Ue o Muite Arukō)</strong> | Perfect East-West bridge, tender Japanese melody building cultural intimacy</li>\n<li><strong>Spandau Ballet - True</strong> | Beautiful 80s romantic connection with touching themes, peak energy of cherry blossom phase</li>\n<li><strong>Mariya Takeuchi - Plastic Love</strong> | Japanese city pop discovery, authentic 80s Tokyo sound maintaining romantic vulnerability</li>\n<li><strong>Berlin - Take My Breath Away</strong> | Romantic preparation for deeper cultural exploration and Tokyo discovery</li>\n<li><strong>Mariya Takeuchi - Stay</strong> | Deeper openness through Japanese perspective, different cultural approach to romance</li>\n<li><strong>Simple Minds - Don't You (Forget About Me)</strong> | Cinematic 80s quality, perfect Tokyo movie scene romance with time standing still</li>\n<li><strong>Taeko Onuki - 4:00 AM</strong> | Soul connection through city pop, seeing the real Tokyo energy and deeper cultural understanding</li>\n<li><strong>Utada Hikaru - Fly Me to the Moon</strong> | East-West standard reimagined, building toward neon night with passionate connection</li>\n<li><strong>The Cure - Friday I'm in Love</strong> | Security themes, home in Tokyo feeling, complete acceptance of cultural fusion</li>\n<li><strong>Duran Duran - Girls on Film</strong> | Electric Tokyo love declaration, first major emotional moment with neon energy</li>\n<li><strong>The Kills - Future Starts Slow</strong> | Joy in young love with 80s aesthetic, celebration of finding each other in Tokyo</li>\n<li><strong>Toshiki Kadomatsu - Reflections</strong> | Japanese city pop commitment themes, building Tokyo life together through 80s lens</li>\n<li><strong>Hall & Oates - I Can't Go for That</strong> | Intimate 80s R&B soul, deepest connection in small Tokyo dive bar venue</li>\n<li><strong>ABBA - Dancing Queen</strong> | Peak youthful romantic freedom, transcendent Tokyo dance floor moment building to ultimate celebration</li>\n<li><strong>Junko Yagami - Bay City</strong> | How deep love translates to daily Tokyo life, domestic bliss with city pop sophistication</li>\n<li><strong>The Doobie Brothers - What a Fool Believes</strong> | Cross-cultural love wisdom, mature perspective gained through Tokyo romance</li>\n<li><strong>Cyndi Lauper - Time After Time</strong> | Love enduring cultural differences and time, authentic 80s connection through adventures</li>\n<li><strong>Olivia Newton-John - Magic</strong> | Gratitude for finding love in Tokyo, appreciation for cultural fusion romance</li>\n<li><strong>Dexys Midnight Runners - Come on Eileen</strong> | Perfect youthful conclusion, eternal young love energy with optimistic cross-cultural romance</li>\n</ol>\n\n<h4>Playlist Journey:</h4>\n\n<p>This playlist takes you on a romantic day-to-night journey through Tokyo, beginning with tender morning moments at a cherry blossom shrine and building through cultural discovery to electric neon-lit romance. It captures the magic of young love bridging Eastern and Western cultures in the vibrant 80s aesthetic.</p>\n\n<h4>Curation Notes:</h4>\n\n<p>Carefully balanced East-West fusion featuring authentic Japanese city pop discoveries alongside classic 80s Western romance. The discovery-focused curation (10 deep cuts) reveals hidden gems like Mariya Takeuchi and Taeko Onuki while maintaining romantic flow. The progression from morning shrine spirituality to nighttime Tokyo energy creates a complete romantic adventure across cultures.</p>"
+                },
+                "item_2": {
+                    "title": "ITEM 11",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                },
+                "item_3": {
+                    "title": "ITEM 12",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                }
+            }
+        },
+        "category_2": {
+            "title": "CATEGORY 2",
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "items": {
+                "item_4": {
+                    "title": "ITEM 13",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                },
+                "item_5": {
+                    "title": "ITEM 14",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                },
+                "item_6": {
+                    "title": "ITEM 15",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                }
+            }
+        },
+        "category_3": {
+            "title": "CATEGORY 3",
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "items": {
+                "item_7": {
+                    "title": "ITEM 16",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                },
+                "item_8": {
+                    "title": "ITEM 17",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                },
+                "item_9": {
+                    "title": "ITEM 18",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                }
+            }
+        }
+    }
+}

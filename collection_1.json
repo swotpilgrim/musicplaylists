@@ -1,0 +1,79 @@
+{
+    "id": "collection_1",
+    "title": "Rebellious Playlists",
+  "description": "Curated playlists that embody authentic rebellion, defiance, and independent spirit through systematic curation and thematic coherence.",
+  "categories": {
+    "route66_cool": {
+      "title": "Route 66 Cool",
+      "description": "Automotive-focused rebellious playlists featuring classic American car culture, observational appreciation, and authentic cool.",
+      "items": {
+        "playlist_001": {
+          "title": "Rat Fink Cruising: Route 66 Automotive Cool",
+          "description": "20 tracks of observational automotive rebellion - from hot rod appreciation to classic American cool, capturing the detached respect for authentic car culture.",
+          "metadata": "Generated from: Rat Fink character, roaring hot rod, Route 66 diner, American eagle, rockabilly pin-up | Score: 87/100 | Theme: Route 66 cool: Observing authentic American automotive rebellion with detached appreciation",
+          "content": "<h3>Theme: Route 66 cool: Observing authentic American automotive rebellion with detached appreciation</h3>\n\n<p><strong>Mood:</strong> REBELLIOUS | <strong>Generated From:</strong> Rat Fink character, roaring hot rod, retro diner on Route 66, clear sunny day, American eagle, rockabilly pin-up | <strong>Quality Score:</strong> 87/100</p>\n\n<h4>Track Listing:</h4>\n\n<ol>\n<li><strong>Eagles - Life in the Fast Lane</strong> | Perfect 70s opener with automotive themes, establishes cruising confidence immediately</li>\n<li><strong>Steppenwolf - Born to Be Wild</strong> | Classic motorcycle rebellion anthem, builds momentum, strategic obvious choice for automotive theme</li>\n<li><strong>Golden Earring - Radar Love</strong> | Driving anthem with European twist, peak energy of opening phase with anthemic quality</li>\n<li><strong>Foghat - Slow Ride</strong> | Perfect observational pace, maintains power while adding the nuanced appreciation stance</li>\n<li><strong>Deep Purple - Highway Star</strong> | Prepares for deeper exploration with automotive imagery and controlled power</li>\n<li><strong>Chicago - 25 or 6 to 4</strong> | Introduces different dimension - urban cool vs rural cruising, horn section sophistication</li>\n<li><strong>Allman Brothers Band - Jessica</strong> | Instrumental showcase of American musical craftsmanship, Southern rock automotive discovery</li>\n<li><strong>Boston - Peace of Mind</strong> | Arena rock precision showing automotive rebellion isn't limited to one sound</li>\n<li><strong>Jethro Tull - Locomotive Breath</strong> | Mechanical imagery building toward climax, grows from modest to undeniable power</li>\n<li><strong>ZZ Top - La Grange</strong> | Peak exploration phase, combines Texas swagger with automotive culture sophistication</li>\n<li><strong>Black Sabbath - Paranoid</strong> | Ultimate automotive power track, undeniably heavy but controlled rebellion</li>\n<li><strong>Allman Brothers Band - Ramblin' Man</strong> | Route 66 freedom celebration, confident automotive joy and road celebration</li>\n<li><strong>Don McLean - American Pie</strong> | Authentic American cultural statement, clearest embodiment of observational Americana</li>\n<li><strong>Boston - More Than a Feeling</strong> | Unexpected classic cool choice that recontextualizes everything, shows curation depth</li>\n<li><strong>Lynyrd Skynyrd - Free Bird</strong> | Peak automotive rebellion appreciation, most epic transcendent track building to automotive freedom</li>\n<li><strong>Rolling Stones - Midnight Rambler</strong> | Living the automotive appreciation, controlled power with wisdom rather than force</li>\n<li><strong>The Band - The Weight</strong> | What car culture teaches, mature perspective on American culture through observation</li>\n<li><strong>Creedence Clearwater Revival - Bad Moon Rising</strong> | Ongoing automotive vigilance, brief resurgence before resolution with refined energy</li>\n<li><strong>Eagles - Take It Easy</strong> | Inspiring others to appreciate, consolidating the cool feeling with generous energy</li>\n<li><strong>Eagles - Hotel California</strong> | Perfect automotive cool conclusion, definitive ending with lasting appreciation for authentic American culture</li>\n</ol>\n\n<h4>Playlist Journey:</h4>\n\n<p>This playlist takes you on a journey from initial cruising confidence through deep appreciation of American automotive culture to sustained respect for authentic rebellion. It captures the cool observer's perspective - someone who appreciates the power and craftsmanship without needing to participate directly.</p>\n\n<h4>Curation Notes:</h4>\n\n<p>Built around the concept of observational rebellion rather than angry uprising, this playlist balances classic 70s-80s rock with smart choices that serve the automotive theme. The inclusion of instrumentals like 'Jessica' and unexpected choices like Chicago's horn-driven 'cool' show that automotive rebellion spans musical approaches while maintaining authentic American spirit.</p>"
+                },
+                "item_2": {
+                    "title": "ITEM 2",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                },
+                "item_3": {
+                    "title": "ITEM 3",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                }
+            }
+        },
+        "category_2": {
+            "title": "CATEGORY 2",
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "items": {
+                "item_4": {
+                    "title": "ITEM 4",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                },
+                "item_5": {
+                    "title": "ITEM 5",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>"
+                },
+                "item_6": {
+                    "title": "ITEM 6",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                }
+            }
+        },
+        "category_3": {
+            "title": "CATEGORY 3",
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "items": {
+                "item_7": {
+                    "title": "ITEM 7",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                },
+                "item_8": {
+                    "title": "ITEM 8",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                },
+                "item_9": {
+                    "title": "ITEM 9",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                    "metadata": "Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum",
+                    "content": "<h3>Lorem ipsum dolor sit</h3><p><strong>Excepteur sint occaecat cupidatat</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+                }
+            }
+        }
+    }
+}
